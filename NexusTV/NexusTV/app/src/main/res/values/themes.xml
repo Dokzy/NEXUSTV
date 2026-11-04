@@ -1,0 +1,6 @@
+<resources>
+    <color name="nexus_bg">#0B0F1A</color>
+    <style name="Theme.Nexus" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/nexus_bg</item>
+    </style>
+</resources>
